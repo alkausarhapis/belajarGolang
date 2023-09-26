@@ -18,6 +18,9 @@ func main() {
 
 	fmt.Printf("%.14f\n", formula)
 
+	// if 2 then :
+	// fmt.Printf("%.14f\n", formula)
+
 	// Soal B slide 31
 	fmt.Println("\n==== SOAL B ====")
 	fmt.Print("Masukkan Nilai x : ")
